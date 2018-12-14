@@ -3,4 +3,4 @@ Yet to implement concurrent highlighting in Hex and Ascii text areas.
 
 The app can be seen live at:
 
-https://plnkr.co/edit/ZTDnOLKDU8d7UAYfgxHV?p=preview
+https://bit.ly/2LeWqPU
